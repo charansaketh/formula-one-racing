@@ -1,0 +1,14 @@
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <img id="raceCar" class="pull-right" src="https://i.ytimg.com/vi/hBmWJOy9vT4/maxresdefault.jpg">
+    <h1 class="display-4">Formula 1 Racing</h1>
+    <p class="lead">Ready. Set. Race.</p>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">
+      <p *ngIf="appService.username" class="welcome">Welcome {{ appService.username }}, <span (click)="logout()" class="logout text-primary">logout here</span></p>
+    </div>
+  </div>
+</div>

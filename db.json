@@ -1,0 +1,94 @@
+{
+  "drivers": [
+    {
+      "firstName": "Carlos",
+      "lastName": "Sainz",
+      "jobTitle": "Ferrari Driver 1",
+      "team": "Ferrari",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "firstName": "Lewis",
+      "lastName": "Hamilton",
+      "jobTitle": "Mercedes Driver 1",
+      "team": "Mercedes",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "firstName": "Max",
+      "lastName": "Verstappen",
+      "jobTitle": "Red Bull Driver 1",
+      "team": "Red Bull Racing",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Riccardo",
+      "jobTitle": "McLaren Driver 2",
+      "team": "McLaren",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "firstName": "Valtteri",
+      "lastName": "Bottas",
+      "jobTitle": "Mercedes Driver 2",
+      "team": "Mercedes",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "firstName": "Lando",
+      "lastName": "Norris",
+      "jobTitle": "McLaren Driver 1",
+      "team": "McLaren",
+      "status": "Active",
+      "id": 6
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Mercedes"
+    },
+    {
+      "id": 2,
+      "teamName": "Red Bull Racing"
+    },
+    {
+      "id": 3,
+      "teamName": "Ferrari"
+    },
+    {
+      "id": 4,
+      "teamName": "McLaren"
+    },
+    {
+      "id": 5,
+      "teamName": "Alpine"
+    },
+    {
+      "id": 6,
+      "teamName": "AlphaTauri"
+    },
+    {
+      "id": 7,
+      "teamName": "Haas"
+    },
+    {
+      "id": 8,
+      "teamName": "Alpha Romeo"
+    },
+    {
+      "id": 9,
+      "teamName": "Aston Martin"
+    },
+    {
+      "id": 10,
+      "teamName": "Williams"
+    }
+  ]
+}
